@@ -1,2 +1,3 @@
-# my-first-calculator.js
-Yet another one of those 'my-first-calculator' programs
+# About
+#### Ha! You pathetic fools! I command the code! I am a master of coding! Oh computers of the world, bow down to your master; for it is I who shall command you with my almighty words and symbols! You shall not resist due to Asimov's second law of robotics! Oh heavens, oh Gods, I rule the world with my might of code! I am a coding master, the best there ever was! I bathe in the knkowledge that I create every day, knowing that I will have served another person someone in the world greatly! Everyone  in the world thank me for the contributions I have made!
+/s, I am not a code master. I am mostly trash at code. Just read my username. Anyway, this was all made with a generator. I've seen quite a bit of these my-first-calculator.js files, but they do not run inside a browser. I have made use of window.alert() and window.prompt() to create a JS port of [my-first-calculator.py](https://github.com/AceLewis/my_first_calculator.py) which runs inside of a browser.
